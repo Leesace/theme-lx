@@ -196,7 +196,9 @@
 			  "storage.modifier",
 			  "storage.type",
 			  "keyword.operator.sizeof",
-			  "keyword.other.typedef.c"
+			  "keyword.other.typedef.c",
+			  "keyword.other.r",
+			  "keyword.r"
 			],
 			"settings": {
 			  "foreground": "#EF82B0",
@@ -207,6 +209,9 @@
 			"scope": [
 			  "entity.name.function",
 			  "support.function.c",
+			  "support.function.r",
+			  "variable.function.r",
+			  "constant.language.r"
 			],
 			"settings": {
 			  "foreground": "#88C0B4", //67AFC8 88C0B4
