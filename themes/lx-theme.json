@@ -261,7 +261,11 @@
 			}
 		  },
 		  {
-			"scope": "keyword.control.latex",
+			"scope": [
+				"keyword.control.latex",
+				"keyword.control.tex",
+				"storage.type.latex",
+			],
 			"settings": {
 			  "foreground": "#EF82B0",
 			  "fontStyle": "",

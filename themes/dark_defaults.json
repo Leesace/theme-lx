@@ -27,6 +27,8 @@
         "editor.selectionBackground": "#656F82",
         "editor.findMatchBackground": "#eeff007e",
         "editor.findMatchHighlightBackground": "#545557",
+        "activityBar.activeBorder": "#007AFF",
+        "activityBar.inactiveForeground": "#7C7C7C"
         },
     "semanticHighlighting":true
 }
