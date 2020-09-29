@@ -198,12 +198,8 @@
 			  "keyword.operator.sizeof",
 			  "keyword.other.typedef.c",
 			  "keyword.other.r",
-<<<<<<< HEAD
 			  "keyword.r",
 			  "keyword.other.using.directive.cpp",
-=======
-			  "keyword.r"
->>>>>>> c9dfd352d17f75663299b439e542bf47771d8f13
 			],
 			"settings": {
 			  "foreground": "#EF82B0",
@@ -213,10 +209,7 @@
 		  {
 			"scope": [
 			  "entity.name.function",
-<<<<<<< HEAD
 			  "entity.name.namespace",
-=======
->>>>>>> c9dfd352d17f75663299b439e542bf47771d8f13
 			  "support.function.c",
 			  "support.function.r",
 			  "variable.function.r",
@@ -232,10 +225,7 @@
 			  "entity.name.function.preprocessor",
 			  "variable.parameter.preprocessor",
 			  "meta.preprocessor.macro",
-<<<<<<< HEAD
 			  "meta.preprocessor",
-=======
->>>>>>> c9dfd352d17f75663299b439e542bf47771d8f13
 			],
 			"settings": {
 			  "foreground": "#F2A45F",

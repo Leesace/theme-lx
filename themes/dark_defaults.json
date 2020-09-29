@@ -28,12 +28,8 @@
         "editor.findMatchBackground": "#eeff007e",
         "editor.findMatchHighlightBackground": "#545557",
         "activityBar.activeBorder": "#007AFF",
-<<<<<<< HEAD
         "activityBar.inactiveForeground": "#7C7C7C",
         "editorWhitespace.foreground": "#818C97"
-=======
-        "activityBar.inactiveForeground": "#7C7C7C"
->>>>>>> c9dfd352d17f75663299b439e542bf47771d8f13
         },
     "semanticHighlighting":true
 }
