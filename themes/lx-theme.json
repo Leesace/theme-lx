@@ -75,7 +75,6 @@
 			"name": "Control flow / Special keywords",
 			"scope": [
 				"keyword.control",
-				"source.cpp keyword.operator.new",
 				"keyword.operator.delete",
 				"keyword.other.using",
 				"keyword.other.operator",
@@ -197,8 +196,6 @@
 			  "storage.type",
 			  "keyword.operator.sizeof",
 			  "keyword.other.typedef.c",
-			  "keyword.other.r",
-			  "keyword.r",
 			  "keyword.other.using.directive.cpp",
 			],
 			"settings": {
@@ -211,12 +208,10 @@
 			  "entity.name.function",
 			  "entity.name.namespace",
 			  "support.function.c",
-			  "support.function.r",
-			  "variable.function.r",
-			  "constant.language.r"
+              "variable.other.cout",
 			],
 			"settings": {
-			  "foreground": "#88C0B4", //67AFC8 88C0B4
+			  "foreground": "#88C0B4",
 			}
 		  },
 		  {
@@ -281,10 +276,10 @@
 			  }
 		  }
 	],
-	"semanticTokenColors": {
-		"newOperator":"#C586C0",
-		"stringLiteral":"#ce9178",
-		"customLiteral": "#DCDCAA",
-		"numberLiteral": "#b5cea8",
-	}
+	// "semanticTokenColors": {
+	// 	"newOperator":"#C586C0",
+	// 	"stringLiteral":"#ce9178",
+	// 	"customLiteral": "#DCDCAA",
+	// 	"numberLiteral": "#b5cea8",
+	// }
 }
