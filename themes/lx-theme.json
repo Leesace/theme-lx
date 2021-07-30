@@ -90,7 +90,8 @@
 				"variable",
 				"meta.definition.variable.name",
 				"support.variable",
-				"entity.name.variable"
+				"entity.name.variable",
+                "variable.language.this.cpp",
 			],
 			"settings": {
 				"foreground": "#9CDCFE"
@@ -208,7 +209,6 @@
 			  "entity.name.function",
 			  "entity.name.namespace",
 			  "support.function.c",
-              "variable.other.cout",
 			],
 			"settings": {
 			  "foreground": "#88C0B4",
